@@ -1,4 +1,5 @@
-This is library for MicroUSB female layouts on PCB 
+This is library for MicroUSB female layouts on PCB
+
 I will update more frequent.
 
 How to use it,
